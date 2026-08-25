@@ -528,7 +528,7 @@ Successful access to the document provided verification of the recovery result.
 
 # 🛡️ 10. Module Comparison
 
-| **Category** | ⚔️ **Module 01 — JTR** | 🌐 **Module 02 — Networkwalks Tools** |
+| **Category** | **Module 01 JTR** | **Module 02 Networkwalks Tools** |
 |---|---|---|
 | **Primary Tool** | John the Ripper | Networkwalks Password Cracker |
 | **Interface** | Johnny GUI | Web Browser |
@@ -540,16 +540,16 @@ Successful access to the document provided verification of the recovery result.
 | **Verification** | Open protected PDF | Open protected PDF |
 | **Evidence** | Screenshots | Screenshots |
 
-## 📊 Results Summary
+##  Results Summary
 
-| **Result** | ⚔️ **Module 01 — JTR / Johnny** | 🌐 **Module 02 — Networkwalks Tools** |
+| **Result** | **Module 01 JTR / Johnny** | **Module 02 Networkwalks Tools** |
 |---|---|---|
-| 🔎 **Hash Extraction** | ✅ Successful | ✅ Successful |
-| ⚔️ **Password Recovery** | ✅ Successful | ✅ Successful |
-| 🔓 **Password Recovered** | ✅ Yes | ✅ Yes |
-| 📄 **PDF Verification** | ✅ Successfully Opened | ✅ Successfully Opened |
-| 📸 **Evidence Captured** | ✅ Yes | ✅ Yes |
-| 📊 **Overall Result** | **COMPLETED** | **COMPLETED** |
+|  **Hash Extraction** | ✅ Successful | ✅ Successful |
+|  **Password Recovery** | ✅ Successful | ✅ Successful |
+|  **Password Recovered** | ✅ Yes | ✅ Yes |
+|  **PDF Verification** | ✅ Successfully Opened | ✅ Successfully Opened |
+|  **Evidence Captured** | ✅ Yes | ✅ Yes |
+|  **Overall Result** | **COMPLETED** | **COMPLETED** |
 
 ---
 
