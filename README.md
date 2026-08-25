@@ -389,7 +389,7 @@ Successful opening of the PDF provided verification that the password-recovery p
 
 ---
 
-# 🛡️ 8. Module 02 — Password Cracking with Networkwalks Tools
+# 🛡️ 8. Module 02 Password Cracking with Networkwalks Tools
 
 ## 8.1  Module Overview
 
