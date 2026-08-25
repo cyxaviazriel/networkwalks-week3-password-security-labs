@@ -666,7 +666,7 @@ This makes the work reproducible, reviewable, and professionally documented.
 
 ---
 
-## 🔐 Observation 04 Password Strength
+##  Observation 04 Password Strength
 
 The practical reinforces the importance of strong passwords.
 
