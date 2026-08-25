@@ -644,7 +644,7 @@ A simple password may be recovered significantly faster than a complex password 
 
 ---
 
-##  Observation 03 — Evidence Matters
+##  Observation 03 Evidence Matters
 
 The practical demonstrated that cybersecurity work is not limited to running tools.
 
@@ -666,7 +666,7 @@ This makes the work reproducible, reviewable, and professionally documented.
 
 ---
 
-## 🔐 Observation 04 — Password Strength
+## 🔐 Observation 04 Password Strength
 
 The practical reinforces the importance of strong passwords.
 
