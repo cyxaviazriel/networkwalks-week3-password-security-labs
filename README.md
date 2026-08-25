@@ -859,7 +859,7 @@ This project represents another step in my development as a cybersecurity profes
 | **Project Detail** | **Information** |
 |---|---|
 | 👤 **Author** | **Alebiosu Oluwadamilare Samuel** |
-| 🏢 **Program** | Cybersecurity Program — Networkwalks |
+| 🏢 **Program** | Cybersecurity Program Networkwalks |
 | 📅 **Week** | **Week 03** |
 | 🎓 **Batch** | **B082** |
 | 📆 **Assessment Submission** | **25 August 2026** |
