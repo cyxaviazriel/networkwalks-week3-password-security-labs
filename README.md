@@ -16,7 +16,7 @@
 ### 👤 Alebiosu Oluwadamilare Samuel
 **Cybersecurity Professional | Networkwalks Intern | Batch B082**
 
-**Assessment Date: 25 August 2026**
+**Assessment Submitted: 25 August 2026**
 
 ---
 
@@ -28,7 +28,7 @@
 |---|---|
 | 👤 **Student / Analyst** | Alebiosu Oluwadamilare Samuel |
 | 🎓 **Program / Batch** | B082 Networkwalks |
-| 📅 **Assessment Date** | 25 August 2026 |
+| 📅 **Assessment Submitted** | 25 August 2026 |
 | 🧪 **Week** | Week 03 |
 | 🔐 **Primary Focus** | Password Security & Cracking |
 | ⚔️ **Module 01** | Password Cracking with John the Ripper & Johnny |
@@ -106,19 +106,19 @@ A major component of the practical was also the collection and organization of *
 
 The primary objectives of the Week 3 practical were to:
 
-- 🔐 Understand password-security fundamentals
-- #️⃣ Understand password hashes and protected-file hashes
-- ⚔️ Work with **John the Ripper (JTR)**
-- 🖥️ Configure and use **Johnny GUI**
-- 📄 Extract a PDF password hash
-- 📝 Save and handle a hash file correctly
-- ⚔️ Perform password recovery within an authorized lab
-- 🌐 Use the Networkwalks Hash Calculator
-- 🔓 Use the Networkwalks Password Cracker
-- 📄 Verify recovered credentials against the supplied PDF
-- 📸 Capture practical evidence
-- 📝 Produce professional cybersecurity documentation
-- 🛡️ Understand the importance of strong passwords
+-  Understand password-security fundamentals
+-  Understand password hashes and protected-file hashes
+-  Work with **John the Ripper (JTR)**
+-  Configure and use **Johnny GUI**
+-  Extract a PDF password hash
+-  Save and handle a hash file correctly
+-  Perform password recovery within an authorized lab
+-  Use the Networkwalks Hash Calculator
+-  Use the Networkwalks Password Cracker
+-  Verify recovered credentials against the supplied PDF
+-  Capture practical evidence
+-  Produce professional cybersecurity documentation
+-  Understand the importance of strong passwords
 
 ---
 
@@ -126,16 +126,18 @@ The primary objectives of the Week 3 practical were to:
 
 | **Tool / Technology** | **Purpose** |
 |---|---|
-| 🪟 **Windows** | Primary practical environment |
-| ⚔️ **John the Ripper** | Password-security testing and password recovery |
-| 🖥️ **Johnny GUI** | Graphical interface for John the Ripper |
-| 🌐 **Web Browser** | Accessing Networkwalks security tools |
-| 🔎 **Networkwalks Hash Calculator** | Extracting the PDF hash |
-| 🔐 **Networkwalks Password Cracker** | Password-recovery exercise |
-| 📄 **Protected PDF** | Authorized laboratory target |
-| #️⃣ **PDF Hash** | Input for password-recovery workflows |
-| 📝 **hash1.txt** | Stored PDF hash for the JTR workflow |
-| 📸 **Screenshots** | Practical evidence and documentation |
+|  **Windows** | Primary practical environment |
+|  **John the Ripper** | Password-security testing and password recovery |
+|  **Johnny GUI** | Graphical interface for John the Ripper |
+|  **Web Browser** | Accessing Networkwalks security tools |
+|  **Networkwalks Hash Calculator** | Extracting the PDF hash |
+|  **Networkwalks Password Cracker** | Password-recovery exercise |
+|  **Protected PDF** | Authorized laboratory target |
+|  **PDF Hash** | Input for password-recovery workflows |
+|  **hash1.txt** | Stored PDF hash for the JTR workflow |
+|  **hash2.txt** | Stored PDF hash for the JTR workflow |
+|  **hash3.txt** | Stored PDF hash for the JTR workflow |
+|  **Screenshots** | Practical evidence and documentation |
 
 ---
 
@@ -171,7 +173,7 @@ flowchart TD
 
 ---
 
-# 🛡️ 6. Module 01 — Password Cracking with John the Ripper
+# 🛡️ 6. Module 01 Password Cracking with John the Ripper
 
 ## 6.1 🔎 Module Overview
 
@@ -201,13 +203,15 @@ PDF Verification
 
 | **Component** | **Details** |
 |---|---|
-| 💻 **Platform** | Windows PC |
-| ⚔️ **Password Tool** | John the Ripper |
-| 🖥️ **GUI** | Johnny |
-| 📄 **Target** | Authorized Protected PDF |
-| #️⃣ **Input** | PDF Hash |
-| 📁 **Hash File** | `hash1.txt` |
-| 🔓 **Verification** | Protected PDF |
+|  **Platform** | Windows PC |
+|  **Password Tool** | John the Ripper |
+|  **GUI** | Johnny |
+|  **Target** | Authorized Protected PDF |
+|  **Input** | PDF Hash |
+|  **Hash File** | `hash1.txt` |
+|  **Hash File** | `hash2.txt` |
+|  **Hash File** | `hash3.txt` |
+|  **Verification** | Protected PDF |
 
 ---
 
@@ -318,7 +322,7 @@ Successful opening of the PDF provided verification that the password-recovery p
 
 ---
 
-# 🛡️ 7. Module 01 — Evidence
+# 🛡️ 7. Module 01 Evidence
 
 > Evidence screenshots are organized under:
 >
