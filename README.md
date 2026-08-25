@@ -2,7 +2,7 @@
 
 # 🛡️ PASSWORD SECURITY & CRACKING LABS
 
-### 🔐 PASSWORD SECURITY • HASH ANALYSIS • PASSWORD RECOVERY
+###  PASSWORD SECURITY • HASH ANALYSIS • PASSWORD RECOVERY
 
 <img src="https://img.shields.io/badge/CYBERSECURITY-NETWORKWALKS-0A66C2?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/WEEK%203-B082-6F42C1?style=for-the-badge" />
