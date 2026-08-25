@@ -175,7 +175,7 @@ flowchart TD
 
 # 🛡️ 6. Module 01 Password Cracking with John the Ripper
 
-## 6.1 🔎 Module Overview
+## 6.1  Module Overview
 
 The first practical focused on **John the Ripper (JTR)** and its graphical interface, **Johnny**.
 
@@ -215,7 +215,7 @@ PDF Verification
 
 ---
 
-## 6.3 🔄 Module 01 Workflow
+## 6.3  Module 01 Workflow
 
 ```mermaid
 flowchart TD
@@ -244,7 +244,7 @@ flowchart TD
 
 ---
 
-## 6.4 🧪 Practical Procedure
+## 6.4  Practical Procedure
 
 ### 🔹 6.4.1 Obtain John the Ripper
 
@@ -328,45 +328,70 @@ Successful opening of the PDF provided verification that the password-recovery p
 >
 > `module-1-jtr/evidence/`
 
-### 🖥️ JTR / Johnny Setup
+###  JTR / Johnny Setup
 
-![JTR Setup](module-1-jtr/evidence/01-jtr-download.png)
+<img width="1347" height="593" alt="SETUP JOHNNY" src="https://github.com/user-attachments/assets/5a9e4ebf-a626-4e82-8f11-362a17ae49ad" />
 
-![Johnny Configuration](module-1-jtr/evidence/02-johnny-setup.png)
+<img width="1359" height="749" alt="JOHNNY SELECT COMPONENT" src="https://github.com/user-attachments/assets/8949ec91-2716-4022-848b-0fc2dfa90283" />
 
-![John.exe Selection](module-1-jtr/evidence/03-john-exe-selection.png)
+<img width="1365" height="744" alt="JOHNNY MENU SHORTCUT" src="https://github.com/user-attachments/assets/7e78be46-39ed-4fb1-9580-e0a80e8b1b4b" />
+
+<img width="1365" height="767" alt="READY TO INSTALL" src="https://github.com/user-attachments/assets/b16ed393-bfba-4a8b-b51b-f4d496e22a6f" />
+
+<img width="1365" height="762" alt="COMPLETING JOHHNNY WIZARD" src="https://github.com/user-attachments/assets/4ef55594-5231-483e-b880-9afd29575b53" />
+
+<img width="1364" height="753" alt="JTR RUN FOLDER" src="https://github.com/user-attachments/assets/6de33aee-8a24-4df7-a14b-8778e96a50e3" />
+
+<img width="1355" height="750" alt="JTR JOHN EXE" src="https://github.com/user-attachments/assets/64bc801d-653d-4a0e-8515-d8f80be15aec" />
+
+<img width="1364" height="761" alt="JTR FILE AND EXTRACTED" src="https://github.com/user-attachments/assets/7d7e9d58-997d-439a-93d1-6628235e9fdc" />
+
+<img width="1361" height="766" alt="JOHNNY SETTINGS EXE" src="https://github.com/user-attachments/assets/c3cf7fe1-df9f-437b-9a4f-0e7e917014c6" />
+
+<img width="1352" height="766" alt="JOHNNY DONE OPENED" src="https://github.com/user-attachments/assets/5c5da2d4-0fc5-4342-bc68-04beeb5e43e8" />
+
+<img width="1342" height="762" alt="JOHNNY EXESUCCESS DONE" src="https://github.com/user-attachments/assets/d7433b3f-7155-4b65-8f2e-b793e01e2d72" />
+
+
 
 ---
 
-### 🔎 PDF Hash Extraction
+###  PDF Hash Extraction
 
-![PDF Hash Extraction](module-1-jtr/evidence/04-pdf-hash-extraction.png)
+<img width="1345" height="753" alt="JOHNNY PASSWORD PROOF 1" src="https://github.com/user-attachments/assets/15a0c83a-6092-43c8-943d-7d0c3db954e5" />
+
+<img width="1365" height="760" alt="JOHNNY PASSWORD PROOF 2" src="https://github.com/user-attachments/assets/4b6d95d9-911a-453e-9283-06fe449fa686" />
+
+<img width="1365" height="720" alt="JOHNNY PASSWORD PROOF 3" src="https://github.com/user-attachments/assets/82573dd7-534c-43dc-8050-a1a042fa0a0e" />
+
+
 
 ---
 
 ### 📝 Hash File
 
-![Hash File](module-1-jtr/evidence/05-hash-file.png)
+<img width="1355" height="724" alt="MY PDFFILE HASH 1" src="https://github.com/user-attachments/assets/3dd0804b-6d3e-4083-9bdb-cf3a36daf491" />
+
+<img width="1361" height="716" alt="MY PDFFILE HASH 2" src="https://github.com/user-attachments/assets/cb322607-3e37-4a02-a275-aa443fe4cac7" />
+
+<img width="1365" height="749" alt="MY PDFFILE HASH 3" src="https://github.com/user-attachments/assets/3d09f4aa-6c91-4559-9f57-31e181a9baef" />
+
 
 ---
 
 ### ⚔️ Password Recovery
 
-![Johnny Password File](module-1-jtr/evidence/06-johnny-password-file.png)
+<img width="1365" height="767" alt="JOHNNY PASSWORD CRACK 1 IS DONE" src="https://github.com/user-attachments/assets/1d390454-b0f6-48e9-8867-2c39c1629397" />
 
-![JTR Password Recovery](module-1-jtr/evidence/07-jtr-attack.png)
+<img width="1365" height="767" alt="JOHNNY PASSWORD CRACK 2 IS DONE" src="https://github.com/user-attachments/assets/7d1f82d4-9538-419d-9fd0-152d262d0697" />
 
----
-
-### 🔓 Verification
-
-![PDF Password Verification](module-1-jtr/evidence/08-password-recovered.png)
+<img width="1365" height="762" alt="JOHNNY PASSWORD CRACK 3 IS DONE" src="https://github.com/user-attachments/assets/2341b111-d3c6-4810-af0f-ae9acf9710d9" />
 
 ---
 
 # 🛡️ 8. Module 02 — Password Cracking with Networkwalks Tools
 
-## 8.1 🌐 Module Overview
+## 8.1  Module Overview
 
 The second practical focused on browser-based password-security tools provided as part of the Networkwalks training exercise.
 
@@ -379,7 +404,7 @@ The workflow involved extracting the PDF hash, copying the complete hash value, 
 
 ---
 
-## 8.2 🛠️ Module Environment
+## 8.2  Module Environment
 
 | **Component** | **Details** |
 |---|---|
@@ -392,7 +417,7 @@ The workflow involved extracting the PDF hash, copying the complete hash value, 
 
 ---
 
-## 8.3 🔄 Module 02 Workflow
+## 8.3  Module 02 Workflow
 
 ```mermaid
 flowchart LR
@@ -419,7 +444,7 @@ flowchart LR
 
 ---
 
-## 8.4 🧪 Practical Procedure
+## 8.4  Practical Procedure
 
 ### 🔹 8.4.1 Obtain the Encrypted PDF
 
@@ -477,7 +502,7 @@ Successful access to the document provided verification of the recovery result.
 
 ---
 
-# 🛡️ 9. Module 02 — Evidence
+# 🛡️ 9. Module 02  Evidence
 
 > Evidence screenshots are organized under:
 >
@@ -485,31 +510,19 @@ Successful access to the document provided verification of the recovery result.
 
 ### 🌐 Networkwalks Hash Calculator
 
-![Hash Calculator](module-2-networkwalks-tools/evidence/01-hash-calculator.png)
+<img width="1365" height="767" alt="Hash Calculator NETWORKWALKS" src="https://github.com/user-attachments/assets/7c34d253-8e7a-46d5-ba94-d6e48012abc9" />
 
 ---
 
 ### #️⃣ Extracted PDF Hash
 
-![PDF Hash](module-2-networkwalks-tools/evidence/02-pdf-hash.png)
+<img width="1365" height="709" alt="Password CrackerNETWORKS" src="https://github.com/user-attachments/assets/4e72bf8b-1ce5-47fb-ba2a-24dec8fd86b6" />
 
 ---
 
 ### ⚔️ Password Cracker
 
-![Password Cracker](module-2-networkwalks-tools/evidence/03-password-cracker.png)
-
----
-
-### ✅ Recovery Result
-
-![Password Recovery Result](module-2-networkwalks-tools/evidence/04-cracking-result.png)
-
----
-
-### 🔓 PDF Verification
-
-![PDF Opened](module-2-networkwalks-tools/evidence/05-pdf-opened.png)
+<img width="1364" height="716" alt="PASSCRACKED NETWORKWALKS" src="https://github.com/user-attachments/assets/a6273bec-3823-4e4f-ad40-510983c781e5" />
 
 ---
 
@@ -531,7 +544,7 @@ Successful access to the document provided verification of the recovery result.
 
 # 🛡️ 11. Password Security Concepts
 
-## 🔐 11.1 Password Cracking
+##   11.1 Password Cracking
 
 Password cracking refers to the process of recovering a password from a password-related representation such as a hash or protected-file credential mechanism.
 
@@ -539,7 +552,7 @@ In a legitimate cybersecurity context, password-recovery techniques can be used 
 
 ---
 
-## #️⃣ 11.2 Hashing
+##    11.2 Hashing
 
 Hashing transforms data into a derived representation known as a hash or message digest.
 
@@ -594,22 +607,22 @@ The protected PDF exercise provided a practical demonstration of how password pr
 
 ### Technical Skills
 
-- 🔐 Password-security testing
-- #️⃣ Hash extraction and handling
-- ⚔️ John the Ripper
-- 🖥️ Johnny GUI
-- 🌐 Networkwalks security tools
-- 📄 Protected-file analysis
-- 🧪 Controlled security testing
-- 📸 Evidence collection
-- 📝 Technical documentation
-- 🔎 Security workflow analysis
+- Password-security testing
+- Hash extraction and handling
+- John the Ripper
+- Johnny GUI
+- Networkwalks security tools
+- Protected-file analysis
+- Controlled security testing
+- Evidence collection
+- Technical documentation
+- Security workflow analysis
 
 ---
 
 # 🛡️ 13. Observations & Technical Considerations
 
-## 🔎 Observation 01 — Hash Format
+##  Observation 01 — Hash Format
 
 The PDF hash must be preserved correctly before being supplied to the password-recovery tool.
 
@@ -617,7 +630,7 @@ The `$pdf$` prefix is an important indicator of the PDF hash format used during 
 
 ---
 
-## ⏱️ Observation 02 — Recovery Time
+##  Observation 02 — Recovery Time
 
 Password-recovery duration can vary depending on:
 
@@ -631,7 +644,7 @@ A simple password may be recovered significantly faster than a complex password 
 
 ---
 
-## 📝 Observation 03 — Evidence Matters
+##  Observation 03 — Evidence Matters
 
 The practical demonstrated that cybersecurity work is not limited to running tools.
 
@@ -727,16 +740,16 @@ Password-security testing must always be conducted within a clearly defined and 
 
 | **Assessment Area** | **Status** |
 |---|---|
-| 🔐 Password Security Fundamentals | ✅ Completed |
-| #️⃣ PDF Hash Extraction | ✅ Completed |
-| ⚔️ John the Ripper Exercise | ✅ Completed |
-| 🖥️ Johnny Configuration | ✅ Completed |
-| 🌐 Networkwalks Hash Calculator | ✅ Completed |
-| ⚔️ Networkwalks Password Cracker | ✅ Completed |
-| 🔓 Password Verification | ✅ Completed |
-| 📸 Evidence Collection | ✅ Completed |
-| 📝 Technical Documentation | ✅ Completed |
-| 🧪 Authorized Laboratory Testing | ✅ Completed |
+| Password Security Fundamentals | ✅ Completed |
+| PDF Hash Extraction | ✅ Completed |
+| John the Ripper Exercise | ✅ Completed |
+| Johnny Configuration | ✅ Completed |
+| Networkwalks Hash Calculator | ✅ Completed |
+| Networkwalks Password Cracker | ✅ Completed |
+| Password Verification | ✅ Completed |
+| Evidence Collection | ✅ Completed |
+| Technical Documentation | ✅ Completed |
+| Authorized Laboratory Testing | ✅ Completed |
 
 ### Overall Practical Progress
 
@@ -755,58 +768,21 @@ DOCUMENTATION            ██████████████████�
 
 Through the Week 3 practical exercises, I developed hands-on experience with:
 
-- 🔐 Password-security concepts
-- #️⃣ Hash analysis
-- 📄 Protected-file analysis
-- ⚔️ John the Ripper
-- 🖥️ Johnny GUI
-- 🌐 Networkwalks security tools
-- 🔎 PDF hash extraction
-- 🔓 Password recovery workflows
-- 📸 Evidence collection
-- 📝 Professional technical documentation
-- ⚖️ Authorized security-testing principles
+- Password-security concepts
+- Hash analysis
+- Protected-file analysis
+- John the Ripper
+- Johnny GUI
+- Networkwalks security tools
+- PDF hash extraction
+- Password recovery workflows
+- Evidence collection
+- Professional technical documentation
+- Authorized security-testing principles
 
 The exercises demonstrated how password-security testing can be approached through different tools while following a consistent security-testing methodology.
 
 The practical also reinforced that **technical execution and professional documentation are equally important** in cybersecurity.
-
----
-
-# 🛡️ 18. Personal Lab Notes & Evidence
-
-The handwritten notes produced during the practical are preserved as additional supporting documentation.
-
-### 📝 Week 3 Lab Notes — JTR / Networkwalks Tools
-
-![Week 3 Lab Notes](evidence/week3-lab-notes-01.jpg)
-
-### 📝 Additional Week 3 Notes
-
-![Additional Week 3 Notes](evidence/week3-lab-notes-02.jpg)
-
-> These notes provide additional evidence of the practical workflow, setup activities, and learning process documented during the internship.
-
----
-
-# 🛡️ 19. Networkwalks Academy Quiz Assessment
-
-As part of the Networkwalks Academy cybersecurity training program, the knowledge assessment associated with the training was completed as part of the overall learning process.
-
-### 🏆 Quiz Performance
-
-| **Assessment** | **Details** |
-|---|---|
-| 🎓 **Academy** | Networkwalks Academy |
-| 📚 **Program** | Cybersecurity |
-| 📅 **Assessment Period** | August 2026 |
-| 🧪 **Assessment Type** | Knowledge Assessment |
-| 📊 **Score** | **10/10** |
-| ✅ **Result** | **Completed** |
-
-### 📸 Score Evidence
-
-_Add the relevant quiz screenshots here if they belong to the Week 3 repository._
 
 ---
 
@@ -828,7 +804,7 @@ SECURITY UNDERSTANDING
 
 ---
 
-# 🛡️ 20. Conclusion
+# 🛡️ 18. Conclusion
 
 During **Week 3 of my Cybersecurity & Ethical Hacking internship at Networkwalks Academy**, I completed practical exercises focused on **password security, hash analysis, password recovery, and protected-file security testing**.
 
@@ -878,128 +854,7 @@ This project represents another step in my development as a cybersecurity profes
 
 ---
 
-# 🛡️ 21. Evidence Collected
-
-Evidence from the Week 3 practical activities is organized according to the individual modules.
-
-## ⚔️ Module 01 — JTR / Johnny Evidence
-
-<details>
-<summary><b>JTR Download / Setup</b></summary>
-
-![JTR Setup](module-1-jtr/evidence/01-jtr-download.png)
-
-</details>
-
-<details>
-<summary><b>Johnny Configuration</b></summary>
-
-![Johnny Configuration](module-1-jtr/evidence/02-johnny-setup.png)
-
-</details>
-
-<details>
-<summary><b>John.exe Selection</b></summary>
-
-![John.exe Selection](module-1-jtr/evidence/03-john-exe-selection.png)
-
-</details>
-
-<details>
-<summary><b>PDF Hash Extraction</b></summary>
-
-![PDF Hash Extraction](module-1-jtr/evidence/04-pdf-hash-extraction.png)
-
-</details>
-
-<details>
-<summary><b>Hash File</b></summary>
-
-![Hash File](module-1-jtr/evidence/05-hash-file.png)
-
-</details>
-
-<details>
-<summary><b>Johnny Password File</b></summary>
-
-![Johnny Password File](module-1-jtr/evidence/06-johnny-password-file.png)
-
-</details>
-
-<details>
-<summary><b>JTR Password Recovery</b></summary>
-
-![JTR Password Recovery](module-1-jtr/evidence/07-jtr-attack.png)
-
-</details>
-
-<details>
-<summary><b>Password Verification</b></summary>
-
-![PDF Password Verification](module-1-jtr/evidence/08-password-recovered.png)
-
-</details>
-
----
-
-## 🌐 Module 02 — Networkwalks Tools Evidence
-
-<details>
-<summary><b>Hash Calculator</b></summary>
-
-![Hash Calculator](module-2-networkwalks-tools/evidence/01-hash-calculator.png)
-
-</details>
-
-<details>
-<summary><b>Extracted PDF Hash</b></summary>
-
-![PDF Hash](module-2-networkwalks-tools/evidence/02-pdf-hash.png)
-
-</details>
-
-<details>
-<summary><b>Password Cracker</b></summary>
-
-![Password Cracker](module-2-networkwalks-tools/evidence/03-password-cracker.png)
-
-</details>
-
-<details>
-<summary><b>Recovery Result</b></summary>
-
-![Password Recovery Result](module-2-networkwalks-tools/evidence/04-cracking-result.png)
-
-</details>
-
-<details>
-<summary><b>PDF Verification</b></summary>
-
-![PDF Opened](module-2-networkwalks-tools/evidence/05-pdf-opened.png)
-
-</details>
-
----
-
-## 📝 Additional Laboratory Evidence
-
-<details>
-<summary><b>Week 3 Lab Notes</b></summary>
-
-![Week 3 Lab Notes](evidence/week3-lab-notes-01.jpg)
-
-</details>
-
-<details>
-<summary><b>Additional Week 3 Notes</b></summary>
-
-![Additional Week 3 Notes](evidence/week3-lab-notes-02.jpg)
-
-</details>
-
----
-
-# 🛡️ 22. Project Information
+# 🛡️ 19. Project Information
 
 | **Project Detail** | **Information** |
 |---|---|
@@ -1007,7 +862,7 @@ Evidence from the Week 3 practical activities is organized according to the indi
 | 🏢 **Program** | Cybersecurity Program — Networkwalks |
 | 📅 **Week** | **Week 03** |
 | 🎓 **Batch** | **B082** |
-| 📆 **Assessment Date** | **25 August 2026** |
+| 📆 **Assessment Submission** | **25 August 2026** |
 | 🔐 **Project Type** | Authorized Cybersecurity Laboratory |
 | 🛡️ **Primary Focus** | Password Security & Cracking |
 | ⚔️ **Module 01** | John the Ripper & Johnny |
@@ -1017,11 +872,10 @@ Evidence from the Week 3 practical activities is organized according to the indi
 | #️⃣ **Hash Type** | PDF Hash |
 | 📸 **Evidence** | Screenshots & Laboratory Notes |
 | 📊 **Assessment Status** | Completed |
-| 📁 **Repository** | GitHub |
 
 ---
 
-# 👤 23. Author
+# 👤 20. Author
 
 <div align="center">
 
@@ -1039,13 +893,13 @@ Evidence from the Week 3 practical activities is organized according to the indi
 
 <br>
 
-**Assessment Date — 25 August 2026**
+**Assessment Submission — 25 August 2026**
 
 </div>
 
 ---
 
-# 🛡️ 24. Assessment Progress
+# 🛡️ 21. Assessment Progress
 
 ```text
 PHASE 1
