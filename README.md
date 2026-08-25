@@ -36,7 +36,7 @@
 | 📄 **Assessment Target** | Authorized Protected PDF Laboratory Target |
 | 🖥️ **Primary Platform** | Windows |
 | 🔎 **Hash Format** | PDF Hash / `$pdf$...` |
-| 📸 **Evidence** | Screenshots, lab notes, and verification evidence |
+| 📸 **Evidence** | Screenshots |
 | 🔐 **Authorization** | Controlled Educational Laboratory Environment |
 | 📊 **Assessment Status** | Completed |
 
@@ -870,7 +870,7 @@ This project represents another step in my development as a cybersecurity profes
 | 💻 **Primary Platform** | Windows |
 | 📄 **Target** | Authorized Protected PDF |
 | #️⃣ **Hash Type** | PDF Hash |
-| 📸 **Evidence** | Screenshots & Laboratory Notes |
+| 📸 **Evidence** | Screenshots |
 | 📊 **Assessment Status** | Completed |
 
 ---
@@ -889,11 +889,11 @@ This project represents another step in my development as a cybersecurity profes
 
 <br>
 
-**Week 03 — Password Security & Cracking Labs**
+**Week 03 Password Security & Cracking Labs**
 
 <br>
 
-**Assessment Submission — 25 August 2026**
+**Assessment Submission 25 August 2026**
 
 </div>
 
