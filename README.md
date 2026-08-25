@@ -893,7 +893,7 @@ This project represents another step in my development as a cybersecurity profes
 
 <br>
 
-**Assessment Submission 25 August 2026**
+**Assessment Submission: 25 August 2026**
 
 </div>
 
