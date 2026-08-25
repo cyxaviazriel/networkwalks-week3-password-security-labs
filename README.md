@@ -622,7 +622,7 @@ The protected PDF exercise provided a practical demonstration of how password pr
 
 # 🛡️ 13. Observations & Technical Considerations
 
-##  Observation 01 — Hash Format
+##  Observation 01 Hash Format
 
 The PDF hash must be preserved correctly before being supplied to the password-recovery tool.
 
@@ -630,7 +630,7 @@ The `$pdf$` prefix is an important indicator of the PDF hash format used during 
 
 ---
 
-##  Observation 02 — Recovery Time
+##  Observation 02 Recovery Time
 
 Password-recovery duration can vary depending on:
 
